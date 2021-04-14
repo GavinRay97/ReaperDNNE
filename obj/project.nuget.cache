@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F+QTquLbOtXvbNeFjnNxFVyg6Fzd05Gv8RQXLb0hFoJPXjuKDpi9RChWusaVHJqFCUBugrMsyn+lWidos/6sxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rayga\\Projects\\tmp\\ReaperDNNE\\ReaperDNNE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rayga\\.nuget\\packages\\dnne\\1.0.19\\dnne.1.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

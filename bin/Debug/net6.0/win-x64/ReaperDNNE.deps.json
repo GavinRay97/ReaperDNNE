@@ -1,0 +1,35 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0/win-x64",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {},
+    ".NETCoreApp,Version=v6.0/win-x64": {
+      "ReaperDNNE/1.0.0": {
+        "dependencies": {
+          "DNNE": "1.0.19"
+        },
+        "runtime": {
+          "ReaperDNNE.dll": {}
+        }
+      },
+      "DNNE/1.0.19": {}
+    }
+  },
+  "libraries": {
+    "ReaperDNNE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DNNE/1.0.19": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-71nkG23WduN2gCFNGPplEyczsHgJY+xQCcRpXc+rQpczqmUiXy2xo2FUAaNvteoq9+lB3gAj8edgLdE3Wso9tw==",
+      "path": "dnne/1.0.19",
+      "hashPath": "dnne.1.0.19.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <!--
+        Defining RID(s) in the project enable specifying the bitness of the native binary.
+        See repository readme.md for more details.
+    -->
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <EnableDynamicLoading>true</EnableDynamicLoading>
+    <DnneAddGeneratedBinaryToProject>true</DnneAddGeneratedBinaryToProject>
+    <DnneMSBuildLogging>high</DnneMSBuildLogging>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DNNE" Version="1.*" />
+  </ItemGroup>
+
+</Project>

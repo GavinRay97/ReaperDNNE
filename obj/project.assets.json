@@ -1,0 +1,125 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "DNNE/1.0.19": {
+        "type": "package",
+        "build": {
+          "build/DNNE.props": {},
+          "build/DNNE.targets": {}
+        }
+      }
+    },
+    "net6.0/win-x64": {
+      "DNNE/1.0.19": {
+        "type": "package",
+        "build": {
+          "build/DNNE.props": {},
+          "build/DNNE.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DNNE/1.0.19": {
+      "sha512": "71nkG23WduN2gCFNGPplEyczsHgJY+xQCcRpXc+rQpczqmUiXy2xo2FUAaNvteoq9+lB3gAj8edgLdE3Wso9tw==",
+      "type": "package",
+      "path": "dnne/1.0.19",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/DNNE.props",
+        "build/DNNE.targets",
+        "build/net472/DNNE.BuildTasks.dll",
+        "build/net472/DNNE.BuildTasks.pdb",
+        "build/net472/Microsoft.Build.Framework.dll",
+        "build/net472/Microsoft.Build.Utilities.Core.dll",
+        "build/net472/Microsoft.VisualStudio.Setup.Configuration.Interop.dll",
+        "build/net472/System.Collections.Immutable.dll",
+        "build/netstandard2.1/DNNE.BuildTasks.deps.json",
+        "build/netstandard2.1/DNNE.BuildTasks.dll",
+        "build/netstandard2.1/DNNE.BuildTasks.pdb",
+        "dnne.1.0.19.nupkg.sha512",
+        "dnne.nuspec",
+        "tools/dnne-gen.dll",
+        "tools/dnne-gen.runtimeconfig.json",
+        "tools/platform/dnne.h",
+        "tools/platform/platform.c"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "DNNE >= 1.*"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\rayga\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\rayga\\Projects\\tmp\\ReaperDNNE\\ReaperDNNE.csproj",
+      "projectName": "ReaperDNNE",
+      "projectPath": "C:\\Users\\rayga\\Projects\\tmp\\ReaperDNNE\\ReaperDNNE.csproj",
+      "packagesPath": "C:\\Users\\rayga\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rayga\\Projects\\tmp\\ReaperDNNE\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\rayga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "DNNE": {
+            "target": "Package",
+            "version": "[1.*, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.2.21155.3\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win-x64": {
+        "#import": []
+      }
+    }
+  }
+}

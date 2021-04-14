@@ -1,0 +1,16 @@
+C:\Users\rayga\Projects\tmp\ReaperDNNE\obj\Debug\net6.0\win-x64\ReaperDNNE.csprojAssemblyReference.cache
+C:\Users\rayga\Projects\tmp\ReaperDNNE\obj\Debug\net6.0\win-x64\ReaperDNNE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rayga\Projects\tmp\ReaperDNNE\obj\Debug\net6.0\win-x64\ReaperDNNE.AssemblyInfoInputs.cache
+C:\Users\rayga\Projects\tmp\ReaperDNNE\obj\Debug\net6.0\win-x64\ReaperDNNE.AssemblyInfo.cs
+C:\Users\rayga\Projects\tmp\ReaperDNNE\obj\Debug\net6.0\win-x64\ReaperDNNE.csproj.CoreCompileInputs.cache
+C:\Users\rayga\Projects\tmp\ReaperDNNE\bin\Debug\net6.0\win-x64\ReaperDNNE.deps.json
+C:\Users\rayga\Projects\tmp\ReaperDNNE\bin\Debug\net6.0\win-x64\ReaperDNNE.runtimeconfig.json
+C:\Users\rayga\Projects\tmp\ReaperDNNE\bin\Debug\net6.0\win-x64\ReaperDNNE.runtimeconfig.dev.json
+C:\Users\rayga\Projects\tmp\ReaperDNNE\bin\Debug\net6.0\win-x64\ReaperDNNE.dll
+C:\Users\rayga\Projects\tmp\ReaperDNNE\bin\Debug\net6.0\win-x64\ref\ReaperDNNE.dll
+C:\Users\rayga\Projects\tmp\ReaperDNNE\bin\Debug\net6.0\win-x64\ReaperDNNE.pdb
+C:\Users\rayga\Projects\tmp\ReaperDNNE\obj\Debug\net6.0\win-x64\ReaperDNNE.dll
+C:\Users\rayga\Projects\tmp\ReaperDNNE\obj\Debug\net6.0\win-x64\ref\ReaperDNNE.dll
+C:\Users\rayga\Projects\tmp\ReaperDNNE\obj\Debug\net6.0\win-x64\ReaperDNNE.pdb
+C:\Users\rayga\Projects\tmp\ReaperDNNE\obj\Debug\net6.0\win-x64\ReaperDNNE.genruntimeconfig.cache
+C:\Users\rayga\Projects\tmp\ReaperDNNE\bin\Debug\net6.0\win-x64\ReaperDNNENE.dll
